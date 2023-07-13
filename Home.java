@@ -1,8 +1,7 @@
-class Hotel{
-
+class Home{
 public static void main(String args[]){
 
-System.out.println("sudeep"); 
+System.out.println("sudeep");
 }
 
 
