@@ -1,4 +1,4 @@
-class TeleVision{
+class Tele{
 	
 static String brand;
 static String type;
